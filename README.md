@@ -10,15 +10,12 @@ In order to work the external power supply ground (GND) must be connected to the
 The power MOSFET used is a logic level N-Channel suitable for the ESP8266 digital output (3.3V).
 
 ### BOM
-Resistors:
-1x 220R
-1x 10K
 
-Flyback diode:
-1x 1N4007
+Resistors (2): 220R, 10K
 
-N-Channel logic level power MOSFET:
-1x IRLB8721
+Flyback diode (1): 1N4007
+
+N-Channel logic level power MOSFET (1): IRLB8721
 
 
 
